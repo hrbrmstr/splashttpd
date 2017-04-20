@@ -1,4 +1,4 @@
-FROM scrapinghub/splash
+FROM scrapinghub/splash:latest
 
 MAINTAINER Bob Rudis "bob@rud.is"
 
